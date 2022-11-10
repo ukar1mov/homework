@@ -1,0 +1,73 @@
+.main_div{
+    width: 70%;
+    margin: 0 auto;
+}
+.main_div p{
+    text-align: center;
+}
+.title{
+    text-align: center;
+    color: orangered;
+    text-transform: uppercase;
+}
+.box_one{
+    display: flex;
+    justify-content: space-between;
+
+}
+.orange{
+    width: 100px;
+    height: 150px;
+}
+.lemon{
+    width: 100px;
+    height: 150px;
+}
+.kumquat{
+    width: 100px;
+    height: 150px;
+}
+.grape{
+    width: 100px;
+    height: 150px;
+}
+.box_two{
+    display: flex;
+    justify-content: space-between;
+}
+.peach{
+    width: 100px;
+    height: 150px;
+}
+.mango{
+    width: 100px;
+    height: 150px;
+}
+.strawberry{
+    width: 100px;
+    height: 150px;
+}
+.cherry{
+    width: 100px;
+    height: 150px;
+}
+.box_three{
+    display: flex;
+    justify-content: space-between;
+}
+.pear{
+    width: 100px;
+    height: 150px;
+}
+.apple{
+    width: 100px;
+    height: 150px;
+}
+.banana{
+    width: 100px;
+    height: 150px;
+}
+.watermelon{
+    width: 100px;
+    height: 150px;
+}
