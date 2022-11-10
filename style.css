@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+.saturday{
+    margin-top: 200px;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.day{
+    text-align: center;
+    color: white;
+    font-size: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+}
